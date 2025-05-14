@@ -7,7 +7,7 @@
   <!-- Inherit from Spring Boot Parent -->
   <parent>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent Testing</artifactId>
+    <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.0.5</version>
     <relativePath/>
   </parent>
